@@ -1,0 +1,12 @@
+{
+  "model": {
+    "type": "model",
+    "model": "starsong_f_test:pinecone/hello",
+    "tints": [
+      {
+        "type": "dye",
+        "default": -1
+      }
+    ]
+  }
+}

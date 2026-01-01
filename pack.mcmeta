@@ -1,0 +1,21 @@
+{
+  "pack": {
+    "min_format": 88,
+    "max_format": 88,
+    "description": [
+      {
+        "text": "星歌计划 - 家具包",
+        "color": "gray"
+      },
+      {
+        "text": "适用于星歌计划服务器",
+        "color": "white"
+      },
+      {
+        "text": "\nVer:Alpha_1_1227",
+        "color": "dark_gray",
+        "italic": true
+      }
+    ]
+  }
+}

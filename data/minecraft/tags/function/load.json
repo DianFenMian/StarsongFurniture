@@ -1,0 +1,40 @@
+{
+  "values": [
+    {
+      "id": "pinecone:private/init",
+      "required": true
+    },
+    {
+      "id": "#load:_private/load",
+      "required": false
+    },
+    {
+      "id": "test:private/init",
+      "required": false
+    },
+    {
+      "id": "starsong:private/init",
+      "required": false
+    },
+    {
+      "id": "xyan:private/init",
+      "required": false
+    },
+    {
+      "id": "unnamed_pack:private/init",
+      "required": false
+    },
+    {
+      "id": "starsong:private/init",
+      "required": false
+    },
+    {
+      "id": "starsong_ess:private/init",
+      "required": false
+    },
+    {
+      "id": "starsong_f_test:private/init",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "auto": {
+      "trigger": "location"
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "starsong_f_test:hello",
+      "starsong_f_test:hello_creative"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "model": {
+    "type": "model",
+    "model": "test:pinecone/xy_cat",
+    "tints": [
+      {
+        "type": "dye",
+        "default": -1
+      }
+    ]
+  }
+}

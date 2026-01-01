@@ -1,0 +1,8 @@
+{
+  "values": [
+    {
+      "id": "pinecone:private/uninstall",
+      "required": true
+    }
+  ]
+}

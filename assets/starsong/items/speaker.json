@@ -1,0 +1,12 @@
+{
+  "model": {
+    "type": "model",
+    "model": "starsong:pinecone/speaker",
+    "tints": [
+      {
+        "type": "dye",
+        "default": -1
+      }
+    ]
+  }
+}

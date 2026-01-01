@@ -1,0 +1,12 @@
+{
+  "model": {
+    "type": "model",
+    "model": "canb:pinecone/cat",
+    "tints": [
+      {
+        "type": "dye",
+        "default": -1
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "model": {
+    "type": "model",
+    "model": "starsong:pinecone/keyboard",
+    "tints": [
+      {
+        "type": "dye",
+        "default": -1
+      }
+    ]
+  }
+}

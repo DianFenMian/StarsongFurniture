@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:stonecutting",
+  "category": "building",
+  "ingredient": "minecraft:bedrock",
+  "result": {
+    "count": 1,
+    "id": "apple",
+    "components": {
+      "minecraft:item_name": "奖状",
+      "minecraft:item_model": "starsong_f_test:hello",
+      "minecraft:custom_data": {
+        "pinecone_fur": 1
+      },
+      "consumable": {},
+      "tooltip_display": {
+        "hidden_components": [
+          "attribute_modifiers"
+        ]
+      },
+      "max_stack_size": 64,
+      "food": {
+        "can_always_eat": true,
+        "nutrition": 10,
+        "saturation": 10.0
+      }
+    }
+  }
+}
